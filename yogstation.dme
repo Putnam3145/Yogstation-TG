@@ -3014,6 +3014,7 @@
 #include "yogstation\code\modules\antagonists\traitor\datum_traitor.dm"
 #include "yogstation\code\modules\assembly\signaler.dm"
 #include "yogstation\code\modules\atmospherics\airalarm.dm"
+#include "yogstation\code\modules\atmospherics\binary_devices\temp_filter_pump.dm"
 #include "yogstation\code\modules\atmospherics\machinery\pipes\bluespace.dm"
 #include "yogstation\code\modules\atmospherics\unary_devices\vent_pump.dm"
 #include "yogstation\code\modules\cargo\cargo_packs.dm"
